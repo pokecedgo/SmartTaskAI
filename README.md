@@ -1,6 +1,6 @@
 # SmartTaskAI
 
-SmartTaskAI is an intelligent application that leverages the power of AI to help you manage your tasks efficiently. Whether you need to create a to-do list, plan your week, or simply chat with an AI assistant, SmartTaskAI has got you covered.
+A dynamic AI-powered assistant using the GEMINI API that functions as a chatbot while seamlessly integrating with a visual to-do list, allowing users to manage tasks, create plans, and generate structured routines like gym splits through natural conversation.
 
 ## Features
 
