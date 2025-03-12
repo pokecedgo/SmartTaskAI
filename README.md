@@ -1,6 +1,6 @@
 # SmartTaskAI
 
-A dynamic AI-powered assistant using the GEMINI API that functions as a chatbot while seamlessly integrating with a visual to-do list, allowing users to manage tasks, create plans, and generate structured routines like gym splits through natural conversation.
+A dynamic AI-powered assistant using the GEMINI API that functions as a chatbot while seamlessly integrating with a visual to-do list, allowing users to manage tasks, create plans, and generate structured routines like gym splits and project planning through natural conversation.
 
 ## Features
 
